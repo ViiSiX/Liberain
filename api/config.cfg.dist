@@ -1,0 +1,14 @@
+DEBUG = True
+SERVER_NAME = 'localhost:5000'
+SECRET_KEY = 'G\xaa\xb2\xd0\xffT\x8an\x9e\x88y?\x92\xb3Q~\x85\x9e\xc4G8`\x8d)'
+
+LIBERAIN_FRONTEND_URL = 'http://localhost:8080/#/'
+
+SQLALCHEMY_DATABASE_URI = 'sqlite:////path/to/your/liberain.db'
+
+MAIL_SERVER = 'your-mail-server'
+MAIL_PORT = 465
+MAIL_USE_SSL = True
+MAIL_USERNAME = 'your-user-name'
+MAIL_PASSWORD = 'your-password'
+MAIL_DEFAULT_SENDER = 'your-default-sender'
